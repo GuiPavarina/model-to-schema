@@ -25,17 +25,9 @@ Following the [JSON Schema](https://json-schema.org/) specs.
 | Type Identifier | | | x |
 | Array support | | | |
 | | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
 
-Backlog:
+### Backlog:
 
-| Feature | 
-| ------- |
-| Pipeline |
+Pipeline
 
 
