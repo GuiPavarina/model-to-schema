@@ -6,9 +6,20 @@
             "street": "5th av",
             "secondNested" : {
                 "shouldBeANumber": 5,
-                "NaN": false
+                "notANumber": null
             }
         }
     },
-    "jobTitle": "Developer"
+    "jobTitle": "Developer",
+    "numberProperty": 123,
+    "boolean": true,
+    "nested1" : {
+        "nested2" : {
+            "nested3" : {
+                "nested4" : {
+                    "stringProperty": "the string :)"
+                }
+            }
+        }
+    }
 }
