@@ -1,0 +1,17 @@
+{
+  "name": "model-to-schema",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "convertToSchema": "./bin/convertToSchema"
+  },
+  "scripts": {
+    "lint": "eslint ./lib"
+  },
+  "author": "Guilherme Sa",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
