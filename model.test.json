@@ -3,7 +3,11 @@
     "address" : {
         "country": "US",
         "nested" : {
-            "street": "5th av"
+            "street": "5th av",
+            "secondNested" : {
+                "shouldBeANumber": 5,
+                "NaN": false
+            }
         }
     },
     "jobTitle": "Developer"
