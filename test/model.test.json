@@ -1,0 +1,25 @@
+{
+    "name" : "Guilherme",
+    "address" : {
+        "country": "US",
+        "nested" : {
+            "street": "5th av",
+            "secondNested" : {
+                "shouldBeANumber": 5,
+                "notANumber": null
+            }
+        }
+    },
+    "jobTitle": "Developer",
+    "numberProperty": 123,
+    "boolean": true,
+    "nested1" : {
+        "nested2" : {
+            "nested3" : {
+                "nested4" : {
+                    "stringProperty": "the string :)"
+                }
+            }
+        }
+    }
+}

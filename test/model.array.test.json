@@ -1,0 +1,10 @@
+{
+    "name": "Guilherme",
+    "testArray" : [
+        {
+            "address": "5th Av",
+            "country": "US",
+            "isForeigner": true
+        }
+    ]
+}

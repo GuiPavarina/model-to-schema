@@ -15,19 +15,11 @@ Of course there are a couple of business/specific logic that this tool will not 
 Following the [JSON Schema](https://json-schema.org/) specs.  
 
 
-## High Level Planning
+## Next Steps
 
-| Feature | Version | Done? | in progress? |
-| ------- |:-------:|:-----:|:-----------:|
-| Object Creation | 0.0.1 | x | |
-| eslint | 0.0.2 | x | |
-| Add Unitary Tests | | | |
-| Type Identifier | | | x |
-| Array support | | | |
-| | | | |
+[x] support to $id  
+[] support arrays  
+[] write tests  
 
-### Backlog:
-
-Pipeline
 
 
