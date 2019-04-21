@@ -24,6 +24,6 @@ Following the [JSON Schema](https://json-schema.org/) specs.
 [x] support to $id  
 [x] support arrays of objects
 [] write tests  
-
+[] arguments on cli
 
 
