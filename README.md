@@ -1,5 +1,9 @@
 # JSON Model To JSON Schema
 
+## installation 
+
+TODO
+
 ## Instructions
 
 #### Test
@@ -18,7 +22,7 @@ Following the [JSON Schema](https://json-schema.org/) specs.
 ## Next Steps
 
 [x] support to $id  
-[] support arrays  
+[x] support arrays of objects
 [] write tests  
 
 

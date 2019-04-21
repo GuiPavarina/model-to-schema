@@ -1,5 +1,5 @@
 # project stuff
-model.schema.json
+*.schema.json
 package-lock.json
 
 # Logs
